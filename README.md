@@ -1,5 +1,6 @@
 # CP-Club-POTW
-Repository for problems and solutions for the LAHS Competitive Programming Club
+Repository for problems and solutions for the LAHS Competitive Programming Club. 
+Problems are ordered from easiest to hardest.
 
 ## Problems of the Week (9/23):
 ### Bronze (Beginners start here!):
