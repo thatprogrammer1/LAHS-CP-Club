@@ -1,5 +1,5 @@
 // Uses the "slope trick" https://codeforces.com/blog/entry/47821
-// The basic idea is realizing that the DP solution consists of 
+// The basic idea is realizing that the DP solution consists of
 // Adding a bunch of absolute value functions, so we can just
 // Look at when the DP function changes slope.
 #include <bits/stdc++.h>
@@ -20,16 +20,16 @@ int main() {
         cin >> a[i];
         a[i] -= i;
     }
-    
+
     pqueue.push(a[0]);
-    for(int i= 1; i<n; i++){
+    for (int i = 1; i < n; i++) {
         pqueue.push(a[i]);
-        if(pqueue.top() > a[i]){
+        if (pqueue.top() > a[i]) {
             pqueue.push(a[i]);
-            ans+=pqueue.top() - a[i];
+            ans += pqueue.top() - a[i];
             pqueue.pop();
         }
     }
 
-    cout<<ans<<endl;
+    cout << ans << endl;
 }

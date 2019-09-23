@@ -23,7 +23,7 @@ public class speeding {
             s = Integer.parseInt(x.nextToken());
 
             for (int j = 0; j < l; j++) { // set the next l units to have the speed limit s
-                limit[ni+j] = s;
+                limit[ni + j] = s;
             }
 
             ni += l; // move the index counter past this segment
@@ -37,7 +37,7 @@ public class speeding {
             s = Integer.parseInt(x.nextToken());
 
             for (int j = 0; j < l; j++) { // set the next l units to have the speed of s
-                speed[si+j] = s;
+                speed[si + j] = s;
             }
 
             si += l; // move the index counter past this segment
@@ -45,7 +45,7 @@ public class speeding {
 
         int over = 0; // represents the maximum amount Bessie went over the speed limit (default 0)
         for (int i = 1; i < 101; i++) { // goes from mile 1 => 100 (including 100)
-            over = Math.max(over, speed[i]-limit[i]);
+            over = Math.max(over, speed[i] - limit[i]);
             // if over is the bigger than what we calculated, still use over
             // if the new value is bigger, replace over with the new value
         }

@@ -24,7 +24,7 @@ public class paint {
         int[] wall = new int[101];
         // stores if the unit of the wall is painted (0-blank, 1-paint)
         // by default, array is filled with 0's (default in Java)
-        
+
         for (int i = smallest; i <= biggest; i++) {
             if (i > a && i <= b) { // check if painted by Farmer John
                 wall[i] = 1;
@@ -36,7 +36,8 @@ public class paint {
 
         int counter = 0; // used to count how many 1's (how many units were painted)
         for (int unit : wall) {
-            if (unit == 1) counter += 1;
+            if (unit == 1)
+                counter += 1;
         }
 
         pw.println(counter); // print to file
