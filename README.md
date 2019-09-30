@@ -16,8 +16,11 @@ Blocked Billboards http://www.usaco.org/index.php?page=viewproblem2&cpid=759
 #### Array Problems:
 
 Implement Speeding Ticket: http://usaco.org/index.php?page=viewproblem2&cpid=568 
+
 Lifeguards: http://usaco.org/index.php?page=viewproblem2&cpid=784 
+
 Mowing the Field: http://usaco.org/index.php?page=viewproblem2&cpid=593 
+
 Cow Tipping: http://usaco.org/index.php?page=viewproblem2&cpid=689 
 
 ### Silver:
