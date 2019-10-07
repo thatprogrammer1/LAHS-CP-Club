@@ -2,6 +2,40 @@
 Repository for problems and solutions for the LAHS Competitive Programming Club. 
 Problems are ordered from easiest to hardest.
 
+## Problems of the Week (10/7):
+### Intro:
+Given an array of length n with some 0’s followed by some 1’s, find the index of the first occurence of a 1. Code two solutions, one with linear search and the other with binary search. The binary search code for this problem is widely used in other applications, so be sure to save it.
+
+Sample input:
+
+10
+
+0 0 0 0 1 1 1 1 1 1
+
+Sample Output:
+
+4
+
+
+### Bronze:
+Solve last weeks problems!
+
+Don't Be Last! (Use sort)-  http://www.usaco.org/index.php?page=viewproblem2&cpid=687
+
+### Silver:
+These are both very very good problems for binary search.
+
+Counting Haybales - http://www.usaco.org/index.php?page=viewproblem2&cpid=666
+
+Convention (This alludes to the binary search code in the intro problem!) - http://usaco.org/index.php?page=viewproblem2&cpid=858
+
+### Gold:
+MooTube - http://www.usaco.org/index.php?page=viewproblem2&cpid=789
+
+### Plat:
+Write an online persistent heap. That is, there are three operations: Adding a number to the heap, removing the smallest number from the heap, and going back to a different version.
+You may not batch the input (it is online), and there are N <= 100000 operations. After every operation, print the smallest element in the heap.
+
 ## Problems of the Week (9/30):
 ### Introduction:
 https://docs.google.com/document/d/18ORFQ5GNaSsB2WF3lMMG0s91RI4YZagtrZxsVawe6Fw/edit?usp=sharing
