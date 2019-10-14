@@ -17,6 +17,8 @@ Heist - http://codeforces.com/problemset/problem/1041/A
 ### Silver:
 Hoof Paper Scissors - http://usaco.org/index.php?page=viewproblem2&cpid=691 
 
+Cow Dance Show (uses priority queues) - http://usaco.org/index.php?page=viewproblem2&cpid=690
+
 ## Problems of the Week (10/7):
 ### Intro:
 Given an array of length n with some 0’s followed by some 1’s, find the index of the first occurence of a 1. Code two solutions, one with linear search and the other with binary search. The binary search code for this problem is widely used in other applications, so be sure to save it.
