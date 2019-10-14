@@ -1,6 +1,21 @@
 # CP-Club-POTW
 Repository for problems and solutions for the LAHS Competitive Programming Club. 
-Problems are ordered from easiest to hardest.
+Problems are ordered from easiest to hardest within each week.
+
+## Problems of the Week (10/14):
+### Bronze:
+Solve the problems we presented at the meeting!
+
+Here are some more as well:
+
+Choose Two Numbers - http://codeforces.com/problemset/problem/1206/A
+
+Heist - http://codeforces.com/problemset/problem/1041/A 
+
+(Note: if you are going to submit your solution to CodeForces, look at this guide for Java Input: https://codeforces.com/blog/entry/7018)
+
+### Silver:
+Hoof Paper Scissors - http://usaco.org/index.php?page=viewproblem2&cpid=691 
 
 ## Problems of the Week (10/7):
 ### Intro:
@@ -30,7 +45,7 @@ Counting Haybales - http://www.usaco.org/index.php?page=viewproblem2&cpid=666
 Convention (This alludes to the binary search code in the intro problem!) - http://usaco.org/index.php?page=viewproblem2&cpid=858
 
 ### Gold:
-MooTube - http://www.usaco.org/index.php?page=viewproblem2&cpid=789
+Haybale Feast - http://usaco.org/index.php?page=viewproblem2&cpid=767
 
 ### Plat:
 Write an online persistent heap. That is, there are three operations: Adding a number to the heap, removing the smallest number from the heap, and going back to a different version.
