@@ -2,6 +2,24 @@
 Repository for problems and solutions for the LAHS Competitive Programming Club. 
 Problems are ordered from easiest to hardest within each week.
 
+## Problems of the Week (10/21):
+
+### Bronze:
+
+Load Balancing (problem we solved during meeting) - http://usaco.org/index.php?page=viewproblem2&cpid=617
+
+Teleportation - http://usaco.org/index.php?page=viewproblem2&cpid=807
+
+### Silver:
+
+Why Did The Cow Cross The Road - http://usaco.org/index.php?page=viewproblem2&cpid=714
+
+### Gold:
+Why Did The Cow Cross The Road - http://usaco.org/index.php?page=viewproblem2&cpid=717
+
+### Plat:
+Easy Vector - https://codeforces.com/problemset/gymProblem/100739/K
+
 ## Problems of the Week (10/14):
 ### Bronze:
 Solve the problems we presented at the meeting!
