@@ -2,6 +2,24 @@
 Repository for problems and solutions for the LAHS Competitive Programming Club. 
 Problems are ordered from easiest to hardest within each week.
 
+## Problems of the Week (10/28):
+
+### Bronze:
+
+Don’t Be Last (for those of you who have not solved it) - http://usaco.org/index.php?page=viewproblem2&cpid=687
+
+### Silver:
+
+Milk Measurement (problem we solved during meeting) - http://www.usaco.org/index.php?page=viewproblem2&cpid=763
+
+### Gold:
+
+Bovine Genomics - http://www.usaco.org/index.php?page=viewproblem2&cpid=741
+
+### Plat:
+Censoring - http://www.usaco.org/index.php?page=viewproblem2&cpid=533
+
+
 ## Problems of the Week (10/21):
 
 ### Bronze:
