@@ -2,6 +2,68 @@
 Repository for problems and solutions for the LAHS Competitive Programming Club. 
 Problems are ordered from easiest to hardest within each week.
 
+## Problems of the Week (11/4):
+
+### Recursion Problems:
+Compute the value of n factorial. (use recursion)
+
+Given n coins, generate all possible sequences of heads and tails.
+
+Sample Input:
+
+n = 2
+
+Sample Output:
+HH
+HT
+TH
+TT
+
+Given n coins with values (a_1, a_2....a_n), generate all possible values one can make.
+
+Sample Input:
+
+n = 2
+
+1 2
+
+Sample Output:
+
+1 2 3 4 
+
+Given n coins with values (a_1, a_2....a_n), generate all possible values one can make using EXACTLY k coins.
+
+Sample Input:
+
+n = 3, k = 2
+
+1 2 4
+
+Sample Output:
+
+3 5 6
+
+Given n coins with values (a_1, a_2....a_n), generate all possible subsets (of the indices of the coins) that sum to a value of x.
+
+Sample Input:
+
+n = 5, x = 5
+
+1 2 9 5 3
+
+Sample Output:
+
+[3]
+
+[1, 4]
+
+Closer to what a USACO problem may look like:
+https://codeforces.com/problemset/problem/1020/B
+
+Challenge Problem (uses recursion in a clever way):
+http://usaco.org/index.php?page=viewproblem2&cpid=895
+
+
 ## Problems of the Week (10/28):
 
 ### Bronze:
