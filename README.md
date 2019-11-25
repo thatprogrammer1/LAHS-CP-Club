@@ -2,10 +2,29 @@
 Repository for problems and solutions for the LAHS Competitive Programming Club. 
 Problems are ordered from easiest to hardest within each week.
 
+## Problems of the Week (11/25)
+
+### Bronze:
+The Lost Cow - http://usaco.org/index.php?page=viewproblem2&cpid=735
+
+### Silver:
+MooTube - http://www.usaco.org/index.php?page=viewproblem2&cpid=788
+
+MooCast - http://www.usaco.org/index.php?page=viewproblem2&cpid=668
+
+Where’s Bessie? - http://www.usaco.org/index.php?page=viewproblem2&cpid=740
+
+### Gold:
+MooTube - http://www.usaco.org/index.php?page=viewproblem2&cpid=789
+
+### Plat: 
+The Bessie Shuffle - http://www.usaco.org/index.php?page=viewproblem2&cpid=366
+
 ## Problems of the Week (11/18)
 
 ### Bronze:
 http://usaco.org/index.php?page=viewproblem2&cpid=857
+
 http://usaco.org/index.php?page=viewproblem2&cpid=785
 
 ### Silver:
